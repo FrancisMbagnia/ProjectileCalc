@@ -38,6 +38,8 @@ You can reach me via email at [francisintegrale@gmail.com] for any questions, su
 
 I hope you enjoy your visit to my GitHub profile and find my projects interesting!
 
+[![Github](https://img.shields.io/github/followers/FrancisMbagnia?label=Follow&style=social)](https://github.com/FrancisMbagnia)
+
 
   [![Francis Mbagnia GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisMbagnia)]
 
