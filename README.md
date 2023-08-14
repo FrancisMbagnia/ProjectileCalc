@@ -10,6 +10,8 @@ I am passionate about programming and have a particular interest in languages li
 - 🔭 I explore open-source projects and am always looking for new collaboration opportunities.
 - 🎓 I also have an academic interest in mathematics and mechanics and enjoy applying my knowledge to practical projects.
 
+  [![Francis Mbagnia GitHub stats](https://github-readme-stats.vercel.app/api?username=FrancisMbagnia)]
+
 ### GitHub Projects
 
 On my GitHub profile, you will find various projects I have embarked on. Here's a glimpse into my areas of interest:
@@ -27,3 +29,4 @@ I am open to collaborations and contributions to interesting projects. Feel free
 You can reach me via email at [francisintegrale@gmail.com] for any questions, suggestions, or collaboration opportunities.
 
 I hope you enjoy your visit to my GitHub profile and find my projects interesting!
+
